@@ -4,17 +4,18 @@
 use \Ixudra\Curl\CurlService as Curl;
 
 /**
- * Numeros da Sorte
- */
+ * Numeros da Sorte 222222 888888
+ */ 
 class numerosDaSorte
 {
 
-	protected $token;
+	protected $token;00020126360014br.gov.bcb.pix01144882384200017052040000530398654041.605802BR5920APSAPS202212151236126009Sao Paulo62240520mpqrinter721347423266304FC62
 	protected $tokens = 10; // quantidade de tokens no .env
 	protected $user_agent;
 
 	function __construct()
 	{
+	
 		$this->setToken();
 		$this->user_agent = "Mozilla/5.0 (compatible; NumerosDaSorte/1.3.3; +https://whatysonneves.com/numeros-da-sorte/)";
 	}
